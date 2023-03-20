@@ -1,0 +1,334 @@
+*{
+    margen: 0;
+    relleno: 0;
+}
+cuerpo{
+    familia de fuentes: Arial, Helvetica, sans-serif;
+}
+
+/* Menú */
+
+encabezado{
+    color de fondo: #222F3E;
+}
+.logo{
+    ancho: 100px;
+    relleno: 10px 30px 10px 30px;
+}
+menú{
+    color de fondo: #354758;
+    relleno: 10px 30px 10px 30px;
+}
+botón de menú{
+    antecedentes: ninguno;
+    frontera: ninguna;
+}
+botón de menú a{
+    color: #eaeded;
+    decoración de texto: ninguno;
+    margen derecho: 20px;
+}
+
+/* Principal */
+
+principal{
+    color de fondo: #EAEDED;
+    relleno: 30px;
+}
+.bg-image{
+    imagen de fondo: url(assets/bg-image.png);
+    tamaño del fondo: cubierta;
+    altura: auto;
+    alineación de texto: centro;
+    color: #eaeded;
+    relleno: 50px;
+    margen superior: 30px;
+    margen inferior: 30px;
+}
+.bg-imagen h1{
+    tamaño de fuente: 1.8em;
+}
+.texto-centro {
+    text-align:center;
+    ancho: 100 %;
+}
+.bg-amarillo {
+    color: #eaeded;
+    color de fondo: #f56600;
+}
+.py-1{
+    relleno: 1rem 0;
+}
+h2{
+    peso de la fuente: 400;
+}
+.box-headline a{
+    color: #017185;
+    relleno-izquierda: 20px;
+    peso de la fuente: negrita;
+    decoración de texto: ninguno;
+}
+
+/* Tarjeta */
+
+.box-gift{
+    color de fondo: blanco;
+}
+.box-headline{
+    pantalla: flexible;
+    alinear elementos: línea de base;
+    relleno: 20px 30px;
+}
+.box-card{
+    pantalla: flexible;
+    alinear los elementos: centro;
+}
+.card1{
+    imagen de fondo: url(assets/img_1.jpg);
+    tamaño del fondo: cubierta;
+    posición de fondo: centro;
+    caja de sombra: 3px 3px 15px #7e7e7e63;
+    ancho: 600px;
+    altura: 680px;
+    radio de borde: 20px;
+    margen: 0 30px 30px 30px;
+}
+.card2{
+    imagen de fondo: url(assets/img_2.jpg);
+    tamaño del fondo: cubierta;
+    posición de fondo: centro;
+    caja de sombra: 3px 3px 15px #7e7e7e63;
+    ancho: 600px;
+    altura: 680px;
+    radio de borde: 20px;
+    margen: 0 30px 30px 30px;
+}
+.card3{
+    imagen de fondo: url(assets/img_3.jpg);
+    tamaño del fondo: cubierta;
+    posición de fondo: centro;
+    caja de sombra: 3px 3px 15px #7e7e7e63;
+    ancho: 600px;
+    altura: 680px;
+    radio de borde: 20px;
+    margen: 0 30px 30px 30px;
+}
+.card4{
+    imagen de fondo: url(assets/img_4.jpg);
+    tamaño del fondo: cubierta;
+    posición de fondo: centro;
+    caja de sombra: 3px 3px 15px #7e7e7e63;
+    ancho: 600px;
+    altura: 680px;
+    radio de borde: 20px;
+    margen: 0 30px 30px 30px;
+}
+
+/* Accesorios de caja */
+
+.box-card-acc{
+    ancho: 100 %;
+    pantalla: flexible;
+    justificar-contenido: espacio-entre;
+}
+.box-acc{
+    ancho: 20 %;
+    color de fondo: blanco;
+    margen: 30px 0 0 0;
+    relleno: 30px;
+}
+.box-acc h3{
+    relleno-inferior: 20px;
+}
+.tarjeta acc{
+    pantalla: flexible;
+    envoltura flexible: envoltura;
+    justificar-contenido: espacio-entre;
+}
+.content-acc{
+    ancho: 40 %;
+    pantalla: flexible;
+    envoltura flexible: envoltura;
+    dirección flexible: columna;
+    relleno: 10px 0px;
+}
+.content-acc span{
+    acolchado superior: 5px;
+}
+
+.box-acc a{
+    pantalla: flexible;
+    color: #017185;
+    decoración de texto: ninguno;
+    parte superior de relleno: 50px;
+}
+
+/* Box-acc img */
+
+.content-img1{
+    imagen de fondo: url(assets/img_15.jpg);
+    ancho: 150px;
+    altura: 150px;
+    tamaño del fondo: cubierta;
+    posición de fondo: centro;
+}
+
+.content-img2{
+    imagen de fondo: url(assets/img_16.jpg);
+    ancho: 150px;
+    altura: 150px;
+    tamaño del fondo: cubierta;
+    posición de fondo: centro;
+}
+
+.content-img3{
+    imagen de fondo: url(assets/img_17.jpg);
+    ancho: 150px;
+    altura: 150px;
+    tamaño del fondo: cubierta;
+    posición de fondo: centro;
+}
+
+.content-img4{
+    imagen de fondo: url(assets/img_18.jpg);
+    ancho: 150px;
+    altura: 150px;
+    tamaño del fondo: cubierta;
+    posición de fondo: centro;
+}
+
+.content-img5{
+    imagen de fondo: url(assets/img_19.jpg);
+    ancho: 150px;
+    altura: 150px;
+    tamaño del fondo: cubierta;
+    posición de fondo: centro;
+}
+
+.content-img6{
+    imagen de fondo: url(assets/img_20.jpg);
+    ancho: 150px;
+    altura: 150px;
+    tamaño del fondo: cubierta;
+    posición de fondo: centro;
+}
+
+.content-img7{
+    imagen de fondo: url(assets/img_21.jpg);
+    ancho: 150px;
+    altura: 150px;
+    tamaño del fondo: cubierta;
+    posición de fondo: centro;
+}
+
+.content-img8{
+    imagen de fondo: url(assets/img_22.jpg);
+    ancho: 150px;
+    altura: 150px;
+    tamaño del fondo: cubierta;
+    posición de fondo: centro;
+}
+
+.content-img9{
+    imagen de fondo: url(assets/img_11.jpg);
+    ancho: 150px;
+    altura: 150px;
+    tamaño del fondo: cubierta;
+    posición de fondo: centro;
+}
+
+.content-img10{
+    imagen de fondo: url(assets/img_12.jpg);
+    ancho: 150px;
+    altura: 150px;
+    tamaño del fondo: cubierta;
+    posición de fondo: centro;
+}
+
+.content-img11{
+    imagen de fondo: url(assets/img_13.jpg);
+    ancho: 150px;
+    altura: 150px;
+    tamaño del fondo: cubierta;
+    posición de fondo: centro;
+}
+
+.content-img12{
+    imagen de fondo: url(assets/img_14.jpg);
+    ancho: 150px;
+    altura: 150px;
+    tamaño del fondo: cubierta;
+    posición de fondo: centro;
+}
+
+.content-img13{
+    imagen de fondo: url(assets/img_24.jpg);
+    ancho: 150px;
+    altura: 150px;
+    tamaño del fondo: cubierta;
+    posición de fondo: centro;
+}
+
+.content-img14{
+    imagen de fondo: url(assets/img_25.jpg);
+    ancho: 150px;
+    altura: 150px;
+    tamaño del fondo: cubierta;
+    posición de fondo: centro;
+}
+
+.content-img15{
+    imagen de fondo: url(assets/img_26.jpg);
+    ancho: 150px;
+    altura: 150px;
+    tamaño del fondo: cubierta;
+    posición de fondo: centro;
+}
+
+.content-img16{
+    imagen de fondo: url(assets/img_27.jpg);
+    ancho: 150px;
+    altura: 150px;
+    tamaño del fondo: cubierta;
+    posición de fondo: centro;
+}
+
+
+/* Caja Otro */
+
+.box-other{
+    margen superior: 30px;
+    margen inferior: 30px;
+}
+.box-img{
+    ancho: 100 %;
+}
+.box-headline2{
+    pantalla: flexible;
+    justificar-contenido: centro;
+    alinear elementos: línea de base;
+}
+.box-other a{
+    color: #017185;
+    relleno-izquierda: 20px;
+    peso de la fuente: negrita;
+    decoración de texto: ninguno;
+}
+
+/* Pie de página */
+
+.bg-oscuro {
+    color: #eaeded;
+    color de fondo: #354758;
+}
+a{
+    color: #eaeded;
+}
+.bg-footer{
+    color de fondo: #222F3E;
+    alineación de texto: centro;
+    relleno: 50px;
+}
+.logo-footer{
+    ancho: 200px;
+}
